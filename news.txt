@@ -1,4 +1,0 @@
-line1
-hello
-line2
-if this doesnt work do sonthing esles
