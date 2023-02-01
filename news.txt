@@ -1,1 +1,7 @@
-it works
+
+Example news article
+By LunaWare-Offical
+Tue 01/31/2023 21:02:22.26
+--------------------------
+This is an example news artical.
+___________________________________________________________________________
