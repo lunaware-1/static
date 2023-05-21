@@ -2,7 +2,7 @@
 
 Tic-tac-toe.
 By LunaWare
-Sun 05/20/2023  7:44 pm
+Sat 05/20/2023  7:44 pm
 --------------------------
 Tic-tac-toe for Jellyfish has been released!
 ___________________________________________________________________________
